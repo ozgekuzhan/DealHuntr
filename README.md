@@ -4,6 +4,14 @@ DealHuntr collects weekly deals from Dutch supermarkets in one place, so you can
 
 Built in 2 weeks as the final project of the [Le Wagon Amsterdam](https://www.lewagon.com/amsterdam) Full Stack Web Development bootcamp (March 2025), by a team of three.
 
+## Screenshots
+
+| Home page | Deal details |
+|---|---|
+| ![DealHuntr home page](https://www.ozgekuzhan.com/img/dealhunter/main_page.PNG) | ![DealHuntr expanded deal view](https://www.ozgekuzhan.com/img/dealhunter/expanded.PNG) |
+| **Categories** | **Shopping list** |
+| ![DealHuntr categories](https://www.ozgekuzhan.com/img/dealhunter/categories.PNG) | ![DealHuntr shopping list](https://www.ozgekuzhan.com/img/dealhunter/shopping_list.PNG) |
+
 ## Features
 
 - **Automatic deal collection**: background jobs scrape the current deals from Albert Heijn and Jumbo on a schedule and store them as products and deals.
