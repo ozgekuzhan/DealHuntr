@@ -6,11 +6,12 @@ Built in 2 weeks as the final project of the [Le Wagon Amsterdam](https://www.le
 
 ## Screenshots
 
-| Home page | Deal details |
-|---|---|
-| ![DealHuntr home page](https://www.ozgekuzhan.com/img/dealhunter/main_page.PNG) | ![DealHuntr expanded deal view](https://www.ozgekuzhan.com/img/dealhunter/expanded.PNG) |
-| **Categories** | **Shopping list** |
-| ![DealHuntr categories](https://www.ozgekuzhan.com/img/dealhunter/categories.PNG) | ![DealHuntr shopping list](https://www.ozgekuzhan.com/img/dealhunter/shopping_list.PNG) |
+<p align="center">
+  <img src="docs/screenshots/main_page.webp" width="200" alt="DealHuntr home page">
+  <img src="docs/screenshots/expanded.webp" width="200" alt="Deal details">
+  <img src="docs/screenshots/categories.webp" width="200" alt="Categories">
+  <img src="docs/screenshots/shopping_list.webp" width="200" alt="Shopping list">
+</p>
 
 ## Features
 
